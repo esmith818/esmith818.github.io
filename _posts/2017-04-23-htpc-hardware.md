@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "HTPC Hardware"
+published: true
+date: 2017-04-24 03:00:00
+categories: htpc
+tags: 
+---
+The first thing you need when setting up a personal home theater is a computer. You can run the software on the same device you use for the rest of your personal computing, but generally you'll want a dedicated machine to avoid tying up resources like RAM and processing cores. In order for the setup to be fully automated, you'll want a system that runs continuously in the background too. You would not want to use a laptop that might be on multiple networks or away from home. You would not want to use your gaming device that would slow to a crawl while downloading new content.
+
+The good news is that viable hardware does not need to be cutting edge or expensive. At a minimum you'll want a dual core system with around 2 GHz of processing power. The more RAM the better, but with as little as 4 GB, you'll be able to handle most activities without seeing any stuttering or crashes. Your storage space will depend on how much you plan to download and keep on hand. As an example, I have been using a Mac Mini for the past 5 years that I bought on eBay. It is a mid-2010 server model (no optical disk) with a 1 TB SATA hard drive divided into two 500MB partitions. It came with 4 GB of RAM which I upgraded to 8 GB after a couple of years of use. I also have two external drives: a 2TB USB drive for movies and a 3TB drive for TV series. Some people opt for a RAID device with large amounts of storage, but I usually delete files after watching them. I only keep the current season of TV shows until the end of the season so space is never an issue. I see a similar Mini selling on eBay right today for $270.
+
+You may want an optical disk drive if you intend to use the system to play any DVDs you already own. You'll probably want a mouse and keyboard as well--I have bluetooth models so I don't have to be right next to the Mini which sits on a shelf below the flat screen LCD in my living room. Assuming your home theater PC has a HDMI connection, you'll connect it directly to your television (or receiver) rather than having a separate monitor. Aside from any additonal optional drives for storage, that's about it. Note that your HTPC does not have to be connected to a monitor--you can run it headless on your network and stream content to client devices instead. But it helps to have a screen at least while setting up the system.
+
+The other important item you'll need will be an internet connection. While this is not a unique requirement to your setup, you may find yourself opting for more bandwidth to handle your needs. Downloads are not negligible in size. Typically you will define whether you want files in 720p or 1080p (or 4k!) resolution. An average 1-hour show at 1080p will be about 1.5-2 GB. Downloading that on a 25 Mbs connection will take about 13 minutes. With 200 Mbs service, you'll only wait 1.5 minutes for the same show to download. Along the same lines, you may want to position your home theater PC close to your modem in order to run a wired eternet connection rather than connecting wirelessly. You'll see much better download speeds on a wired connection and avoid slosing down your wireless connection for other devices connected to it.
+
+Once you have your hardware, you'll want to decide on your [usenet provider and indexing service]({{ site.url }}/_posts/2017-04-23-usenet-subscriptions.md).
