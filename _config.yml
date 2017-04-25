@@ -5,9 +5,7 @@ gems:
 
 # Site settings
 title: "SmithyP"
-description: > # this means to ignore newlines until "email:"
-   A website in lieu of a good memory
-
+description: "A website in lieu of a good memory"
 email: esmith818@gmail.com
 #blog logo
 logo: "/assets/images/sp_logo.jpg"
