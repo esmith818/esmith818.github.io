@@ -5,6 +5,7 @@ published: true
 date: 2017-04-24 08:00:00
 categories: automation htpc usenet
 tags: 
+comments: true
 ---
 Managing the file downloads may not be a glorious job, but it is critical to the automated home theater system. The binary newsreader is responsible for taking the index files from the monitoring services, downloading the "blocks", locating any missing pieces, reconnecting all the pieces and returning the completed files to the monitoring apps. It is arguably the most important task since the other services could all be replaced with manual steps. But whether manual or automated, you have to have a downloading tool to retrieve the files.
 

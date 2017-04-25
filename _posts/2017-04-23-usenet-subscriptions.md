@@ -5,6 +5,7 @@ published: true
 date: 2017-04-24 05:00:00
 categories: htpc
 tags: 
+comments: true
 ---
 Usenet is your source for video content in your automated home theater setup. Unlike a P2P system such as torrents, usenet files are uploaded to a cloud-based server where they remain for a set amount of time. Anyone who has an index file that points to the location on the remote server can download it as fast as their internet connection will allow. 
 

@@ -5,6 +5,7 @@ published: true
 date: 2017-04-24 04:00:00
 categories: htpc
 tags: 
+comments: true
 ---
 You'll need several apps working in tandem to pull files from Usenet. Nowadays you have a choice for practically every aspect of the workflow. While I started with Python-based software, I recently made the switch to apps written in C++. These apps seem to work smoother with less resources and have better support and documentation. You're free to choose alternate options, but I think you'll find the following software to satisfy your viewing needs. Note that only the miscellaneous apps below have a fee. These are also optional. All the required software is free and open source.
 
