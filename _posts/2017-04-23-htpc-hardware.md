@@ -5,6 +5,7 @@ published: true
 date: 2017-04-24 03:00:00
 categories: htpc
 tags: 
+comments: true
 ---
 The first thing you need when setting up a personal home theater is a computer. You can run the software on the same device you use for the rest of your personal computing, but generally you'll want a dedicated machine to avoid tying up resources like RAM and processing cores. In order for the setup to be fully automated, you'll want a system that runs continuously in the background too. You would not want to use a laptop that might be on multiple networks or away from home. You would not want to use your gaming device that would slow to a crawl while downloading new content.
 
