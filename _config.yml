@@ -20,7 +20,7 @@ name: 'Eric Smith'
 author: 'Eric Smith'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate:	3
 
 url: "http://smithyp.com" # the base hostname & protocol for your site
 baseurl: ""
@@ -28,7 +28,7 @@ baseurl: ""
 twitter_handle: '@blackbeard_f3'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: wolfpack93
 
 #google_analytics: UA-XXXXX-X
 
