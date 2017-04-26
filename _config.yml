@@ -5,8 +5,11 @@ gems:
 
 # Site settings
 title: "SmithyP"
+
 description: "A website in lieu of a good memory"
-email: esmith818@gmail.com
+
+email: 'http://www.google.com/recaptcha/mailhide/d?k=01cdXlgzOX0-EPeQT1jNFQDw==&c=AqywN043udlxPQELpW7B1JHzB5dKJV4qDZ0czipjLOw='
+
 #blog logo
 logo: "/assets/images/sp_logo.jpg"
 
