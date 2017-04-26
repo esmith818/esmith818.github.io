@@ -20,6 +20,20 @@ $(document).scroll(function() {
   }
 });
 </script>
+<!-- Determine reading time for each article -->
+<script>
+  $(function() {
+
+    $('{{ site.url }}{{ post.url }}').each(function() {
+    
+      $(this).readingTime({
+        readingTimeTarget: $(this).find('.reading-time')
+      });
+      
+    });
+      
+  });
+</script>
 <!-- Create tinted parallax effect for header images -->
 <!-- <script>
 (function ($) {
