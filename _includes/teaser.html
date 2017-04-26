@@ -1,0 +1,17 @@
+<!-- teaser start -->
+
+<div class="teaserimage">
+    <div id="sticky-teaser" class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }})"{% endif %}>
+        Teaser Image
+    </div>
+    <div id="filler">
+      <!-- Empty div used when setting fixed header with jQuery -->
+    </div>
+</div>
+<header class="blog-header">
+    {% if site.logo %}
+      <a id="sticky-logo" class="blog-logo" href="{{site.url}}{{site.baseurl}}" style="background-image: url('{{ site.logo | prepend: site.baseurl }}')">{{ site.title }}</a>
+    {% endif %}
+</header>
+
+<!-- teaser end -->

@@ -9,7 +9,6 @@ description: "A website in lieu of a good memory"
 email: esmith818@gmail.com
 #blog logo
 logo: "/assets/images/sp_logo.jpg"
-float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/braindump.jpg"
