@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "SmithyP"
+title: "Blackbeard's Brain"
 
-description: "A website in lieu of a good memory"
+description: "Trimming My Sails on the Worldwide Web"
 
-email: ''
+email: 'blackbeardsbrain@gmail.com'
 
 #blog logo
 logo: "/assets/images/sp_logo.jpg"
@@ -22,13 +22,13 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://smithyp.com" # the base hostname & protocol for your site
+url: "http://blackbeardsbrain.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@blackbeard_f3'
 
 #fill in disqus shortname to use disqus
-disqus: smithyp-com
+#disqus: smithyp-com
 
 #google_analytics: UA-XXXXX-X
 
@@ -48,9 +48,9 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-#  - icon:	github
-#    url:	https://github.com/dirkfabisch
-#    desc:	Fork me on github
+  - icon:	github
+    url:	https://github.com/esmith818
+    desc:	Fork me on github
 #    share_url:
 #    share_title:
 #    share_link:
