@@ -11,7 +11,7 @@ description: "Trimming My Sails on the Worldwide Web"
 email: 'blackbeardsbrain@gmail.com'
 
 #blog logo
-logo: "/assets/images/sp_logo.jpg"
+logo: "/assets/images/bbb_logo.jpg"
 
 # blog cover
 cover: "/assets/images/braindump.jpg"
@@ -34,12 +34,24 @@ twitter_handle: '@blackbeard_f3'
 
 # social icons and sharing options
 social:
+  - icon: file
+    url:  /resume/
+    desc: View my resume
+
   - icon:	twitter
     url:	https://twitter.com/blackbeard_f3
-    desc: Follow me on twitter
+    desc: Follow me on Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
+
+  - icon: github
+    url:  https://github.com/esmith818
+    desc: Fork me on GitHub
+
+  - icon: question
+    url:  /about/
+    desc: Site Info
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -47,13 +59,6 @@ social:
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/esmith818
-    desc:	Fork me on github
-#    share_url:
-#    share_title:
-#    share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
