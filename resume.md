@@ -19,7 +19,7 @@ JavaScript, HTML, CSS, PHP, SQL, Python, Bash, Git
 Drupal, WordPress, Jekyll, Node.js   
 
 **Software**:  
-Adobe Creative Suite (Photoshop, Illustrator, Acrobat), Microsoft Office (Excel, Word, PowerPoint), FusionPro, Balsamiq, jMeter, Selenium, New Relic
+Adobe Creative Suite (Photoshop, Illustrator, Acrobat), Microsoft Office (Excel, Word, PowerPoint), Atlassian (JIRA, Confluence, Stash) FusionPro, Balsamiq, jMeter, Selenium, New Relic
 
 ### Sample Sites
 [F3 Lake Norman](https://f3lakenorman.com) (Drupal)  
@@ -41,7 +41,7 @@ Adobe Creative Suite (Photoshop, Illustrator, Acrobat), Microsoft Office (Excel,
 &nbsp;         | | *- Develop custom Drupal modules to satisfy client requirements*
 &nbsp;         | | *- QA automation of regression and load testing for hosted solutions*
 &nbsp;         | | *- Assist BAs with UI/UX mockups for projects*
-&nbsp;         | | *- Employ version control with peer code reviews for site updates*
+&nbsp;         | | *- Use git in an Agile environment with peer code reviews for development*
 2008 - 2012  | | __*Variable Data Specialist*__
 &nbsp;         | | *- Create FusionPro templates to merge client data and art*
 &nbsp;         | | *- Generate store-specific signage for Fortune 50 companies*
