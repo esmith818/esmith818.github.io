@@ -14,7 +14,7 @@ After college, I found my way into printing. I moved quickly from prepress into 
 
 When an opportunity opened up to move into a project manangement and analyst role, I jumped. This position allows me to apply my technical background in finding ways to automate and improve existing processes.
 
-View my[resume](resume.md). 
+* View my [resume](resume.md). 
 
 ## Personal
 
