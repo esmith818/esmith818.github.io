@@ -35,7 +35,7 @@ Adobe Creative Suite (Photoshop, Illustrator, Acrobat), Microsoft Office (Excel,
 &nbsp;        | | *- Produced personalized direct mail materials for a Nursing Recruiter campaign*
 &nbsp;        | &nbsp; | &nbsp;
 **2000 - Present**     | | **Classic Graphics** (Charlotte, NC)
-2019 - Present | | __*Project Manager | Business Analyst*__
+2019 - Present | | __*Project Manager \| Business Analyst*__
 &nbsp;         | | *- Oversee a return mail reporting solution for a large financial institution*
 &nbsp;         | | *- Orchestrate automation of store specific signage for a national retail chain*
 &nbsp;         | | *- Implement an internal ordering platform for MOD & fulfillment items for a large bank*
@@ -94,15 +94,7 @@ Adobe Creative Suite (Photoshop, Illustrator, Acrobat), Microsoft Office (Excel,
 &nbsp;        | &nbsp; | &nbsp;
 **1988 - 1993**   | | **North Carolina State University** (Raleigh, NC)
 &nbsp; | | B.A. Business Management
-&nbsp;        | &nbsp; | &nbsp;
-
-### Personal
-
-I have been a member of [F3 Nation](https://f3nation.com) since 2014 where I answer to the nickname "Blackbeard". I established and continue to support the [F3 Lake Norman](https://f3lakenorman.com) regional website where I continually add features which present collected data in useful ways. I wrote a Python script that I host on a Raspberry Pi which monitors Twitter for tagged content and retweets. I also implemented [Slack](https://slack.com) as a communication tool for the region, and have added several integrations to make the app more functional for our needs.
-
-I am currently serving on the Villages of Rosedale HOA board where I am initiating a better solution for managing HOA materials, implementing a solution which will allow townhome owners to address their needs without requiring votes from single family owners, and working on improved relations between the HOA and the property owners.
-
-I serve on the Pastoral Council at St Mark Catholic Church where I have been an active member since 1998. I have previously volunteered with their high school youth in both [LifeTeen](https://lifeteen.com) and [Fraternus](https://www.fraternus.net). 
+&nbsp;        | &nbsp; | &nbsp; 
 
 ### References
 
