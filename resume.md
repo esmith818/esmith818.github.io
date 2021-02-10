@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Blackbeard's Resume
 permalink: /resume/
 ---
 
