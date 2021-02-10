@@ -9,7 +9,7 @@ Huntersville, NC
 [esmith818@gmail.com](mailto:esmith818@gmail.com)
 
 ### Career Overview
-With over 20 years experience in computer graphics and development, I am uniquely prepared to take on many challenges in the digital world. My current areas of interest are in automated solutions, quality assurance, and identifying and implementing the best solution for a client's requirements. While it is difficult to master each technology available, I believe my current range of skills confirms I am capable of learning new solutions as they become necessary.
+My father taught me to leave things in better condition than I found them. I seek to apply this statement to every project I am involved with. I have a habit of finding problems, but I use that to my advantage in making further improvements. And as someone who believes in working smarter rather than harder, I seek out opportunities to automate processes whenever possible. Improvement and automation are key factors to my recent career move into project management and IT business analysis.
 
 ### Technical Skills  
 **Languages**:  
@@ -23,7 +23,7 @@ Adobe Creative Suite (Photoshop, Illustrator, Acrobat), Microsoft Office (Excel,
 
 ### Sample Sites
 [F3 Lake Norman](https://f3lakenorman.com) (Drupal)  
-[Classic Graphics](https://knowclassic.com) (WordPress)  
+[HAM Asset Management](https://hamassetmanagement.com) (WordPress)  
 [Blackbeard's Brain](https://blackbeardsbrain.com) (Jekyll)  
 
 ### Job History
@@ -32,11 +32,14 @@ Adobe Creative Suite (Photoshop, Illustrator, Acrobat), Microsoft Office (Excel,
 **2014 - Present** | | **Blackbeard's Brain** (Huntersville, NC)
 &nbsp;        | | __*Freelancer*__
 &nbsp;        | | *- Create and maintain websites for local, small businesses*
-&nbsp;        | | *- Organized several direct mail campaign materials for a nursing recruiter*
-&nbsp;        | | *- Implemented automated home theater solution*
+&nbsp;        | | *- Produced personalized direct mail materials for a Nursing Recruiter campaign*
 &nbsp;        | &nbsp; | &nbsp;
 **2000 - Present**     | | **Classic Graphics** (Charlotte, NC)
-2012 - Present | | __*Developer*__
+2019 - Present | | __*Project Manager | Business Analyst*__
+&nbsp;         | | *- Oversee a return mail reporting solution for a large financial institution*
+&nbsp;         | | *- Orchestrate automation of store specific signage for a national retail chain*
+&nbsp;         | | *- Implement an internal ordering platform for MOD & fulfillment items for a large bank*
+2012 - 2019 | | __*Developer*__
 &nbsp;         | | *- Create and maintain internal B2B Drupal web-apps*
 &nbsp;         | | *- Develop custom Drupal modules to satisfy client requirements*
 &nbsp;         | | *- QA automation of regression and load testing for hosted solutions*
@@ -95,8 +98,9 @@ Adobe Creative Suite (Photoshop, Illustrator, Acrobat), Microsoft Office (Excel,
 
 ### Personal
 
-I have been a member of [F3 Nation](https://f3nation.com) since 2014 where I answer to the nickname "Blackbeard". I established and continue to support the [F3 Lake Norman](https://f3lakenorman.com) regional website where I continually add features and keep on top of security updates. I also implemented [Slack](https://slack.com) as a communication tool for the region and have added several integrations to make the app more functional for our needs.
+I have been a member of [F3 Nation](https://f3nation.com) since 2014 where I answer to the nickname "Blackbeard". I established and continue to support the [F3 Lake Norman](https://f3lakenorman.com) regional website where I continually add features which present collected data in useful ways. I wrote a Python script that I host on a Raspberry Pi which monitors Twitter for tagged content and retweets. I also implemented [Slack](https://slack.com) as a communication tool for the region, and have added several integrations to make the app more functional for our needs.
 
+I am currently serving on the Villages of Rosedale HOA board where I am initiating a better solution for managing HOA materials, implementing a solution which will allow townhome owners to address their needs without requiring votes from single family owners, and working on improved relations between the HOA and the property owners.
 
 I serve on the Pastoral Council at St Mark Catholic Church where I have been an active member since 1998. I have previously volunteered with their high school youth in both [LifeTeen](https://lifeteen.com) and [Fraternus](https://www.fraternus.net). 
 
